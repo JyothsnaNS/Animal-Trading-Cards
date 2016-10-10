@@ -1,0 +1,36 @@
+/* add your CSS here */
+.fact {
+	font-style: italic;
+}
+
+.style {
+	border: 4px;
+	padding: 5px;
+	text-align: left;
+}
+
+.card {
+	padding: 5px;
+	width:25em;
+	border: 2px;
+	border-style: solid;
+}
+span {
+	font-weight: bold;
+}
+
+.list {
+	padding-left: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+img {
+	width: 300px;
+}
+
+body {
+	position: absolute;
+}
